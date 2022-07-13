@@ -1,4 +1,6 @@
 # M5StickC_Plus_Slot_Machine
+For compilation on the free Arduino IDE: https://www.arduino.cc/en/software
+
 This project just contains tweaks to make the great M5Stick-C Slot machine work on the Plus version of the M5Stick-C. So if you just wanted to throw this quick and beautiful graphics demo on to your new device, you can, without needing to twiddle any of the code.
 
 The entire project belongs to vcraftjp : https://github.com/vcraftjp/M5StickC_Slot
